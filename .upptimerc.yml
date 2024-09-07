@@ -3,19 +3,23 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: HX GitLab
+    url: https://healthx-gitlab.bihealth.org/
+  - name: NFS Tar
+    url: https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/1/
+  - name: Aspera Conf
+    url: https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/2/
+  - name: Aspera Tar
+    url: https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/3/
+  - name: NFS Disk
+    url: https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/4/
+  - name: Local Disk
+    url: https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/5/
+  # - name: IPv6 test
+  #   url: forwardemail.net
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
