@@ -22,9 +22,9 @@
     "url": "https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/1/",
     "icon": "https://icons.duckduckgo.com/ip3/tenfoow.healthx-gitlab-pages.bihealth.org.ico",
     "slug": "nfs-tar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 896,
     "timeMonth": 896,
     "timeYear": 896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Aspera Conf",
