@@ -22,19 +22,19 @@
     "url": "https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/1/",
     "icon": "https://icons.duckduckgo.com/ip3/tenfoow.healthx-gitlab-pages.bihealth.org.ico",
     "slug": "nfs-tar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 734,
-    "timeWeek": 828,
-    "timeMonth": 828,
-    "timeYear": 828,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 823,
+    "timeDay": 742,
+    "timeWeek": 823,
+    "timeMonth": 823,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 16
     }
   },
   {
