@@ -4,9 +4,9 @@
     "url": "https://healthx-gitlab.bihealth.org/",
     "icon": "https://icons.duckduckgo.com/ip3/healthx-gitlab.bihealth.org.ico",
     "slug": "hx-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,19 +15,21 @@
     "timeWeek": 1198,
     "timeMonth": 1217,
     "timeYear": 1217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "NFS Tar",
     "url": "https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/1/",
     "icon": "https://icons.duckduckgo.com/ip3/tenfoow.healthx-gitlab-pages.bihealth.org.ico",
     "slug": "nfs-tar",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "98.83%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "98.82%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 848,
     "timeDay": 816,
     "timeWeek": 806,
@@ -43,9 +45,9 @@
     "url": "https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/2/",
     "icon": "https://icons.duckduckgo.com/ip3/tenfoow.healthx-gitlab-pages.bihealth.org.ico",
     "slug": "aspera-conf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,16 +56,18 @@
     "timeWeek": 130,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "Aspera Tar",
     "url": "https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/3/",
     "icon": "https://icons.duckduckgo.com/ip3/tenfoow.healthx-gitlab-pages.bihealth.org.ico",
     "slug": "aspera-tar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,16 +76,18 @@
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "NFS Disk",
     "url": "https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/4/",
     "icon": "https://icons.duckduckgo.com/ip3/tenfoow.healthx-gitlab-pages.bihealth.org.ico",
     "slug": "nfs-disk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,14 +96,16 @@
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "Local Disk",
     "url": "https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/5/",
     "icon": "https://icons.duckduckgo.com/ip3/tenfoow.healthx-gitlab-pages.bihealth.org.ico",
     "slug": "local-disk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -108,6 +116,8 @@
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   }
 ]
