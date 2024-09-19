@@ -1,7 +1,7 @@
 url: https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/1/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-19T23:47:03.696Z
+status: up
+code: 200
+responseTime: 866
+lastUpdated: 2024-09-19T23:52:59.343Z
 startTime: 2024-09-07T22:58:22.654Z
 generator: Upptime <https://github.com/upptime/upptime>
