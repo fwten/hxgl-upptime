@@ -1,7 +1,7 @@
-url: https://tenfoow.healthx-gitlab-pages.bihealth.org:8443/test/1/
+url: https://$HX_STATUS_PAGE/test/1/
 status: up
 code: 200
-responseTime: 866
-lastUpdated: 2024-09-19T23:52:59.343Z
+responseTime: 975
+lastUpdated: 2024-09-20T02:04:16.792Z
 startTime: 2024-09-07T22:58:22.654Z
 generator: Upptime <https://github.com/upptime/upptime>
