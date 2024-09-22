@@ -127,7 +127,7 @@
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-09-22": 64,
+      "2024-09-22": 260,
       "2024-09-21": 932
     }
   },
@@ -136,19 +136,19 @@
     "url": "https://$HX_STATUS_PAGE/test/7/",
     "icon": "https://icons.duckduckgo.com/ip3/$hx_status_page.ico",
     "slug": "aspera-log-conf",
-    "status": "down",
-    "uptime": "82.92%",
-    "uptimeDay": "82.92%",
-    "uptimeWeek": "82.92%",
-    "uptimeMonth": "82.92%",
-    "uptimeYear": "82.92%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "status": "up",
+    "uptime": "69.30%",
+    "uptimeDay": "69.30%",
+    "uptimeWeek": "69.30%",
+    "uptimeMonth": "69.30%",
+    "uptimeYear": "69.30%",
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-09-22": 64,
+      "2024-09-22": 260,
       "2024-09-21": 106
     }
   }
