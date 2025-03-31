@@ -1,7 +1,7 @@
 url: https://$HX_STATUS_PAGE/test/5/
 status: up
 code: 200
-responseTime: 169
-lastUpdated: 2025-03-30T23:16:14.583Z
+responseTime: 145
+lastUpdated: 2025-03-31T23:15:56.846Z
 startTime: 2024-09-07T22:58:25.664Z
 generator: Upptime <https://github.com/upptime/upptime>
