@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/healthx-gitlab.bihealth.org.ico",
     "slug": "hx-git-lab",
     "status": "up",
-    "uptime": "95.17%",
+    "uptime": "95.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.20%",
-    "time": 1230,
-    "timeDay": 1404,
-    "timeWeek": 1203,
-    "timeMonth": 1337,
-    "timeYear": 1213,
+    "uptimeYear": "96.48%",
+    "time": 1231,
+    "timeDay": 1385,
+    "timeWeek": 1218,
+    "timeMonth": 1351,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2025-11-28": 149,
       "2025-09-15": 233,
@@ -36,8 +36,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 588,
-      "2025-02-28": 349,
-      "2025-01-02": 502
+      "2025-02-28": 349
     }
   },
   {
@@ -46,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$hx_status_page.ico",
     "slug": "nfs-tar",
     "status": "down",
-    "uptime": "67.46%",
+    "uptime": "67.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2026-01-01": 82,
+      "2026-01-02": 76,
+      "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
@@ -222,8 +222,7 @@
       "2025-03-07": 582,
       "2025-02-28": 330,
       "2025-01-04": 329,
-      "2025-01-03": 1440,
-      "2025-01-02": 1440
+      "2025-01-03": 1440
     }
   },
   {
@@ -232,7 +231,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$hx_status_page.ico",
     "slug": "nfs-disk",
     "status": "down",
-    "uptime": "47.10%",
+    "uptime": "47.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -243,7 +242,8 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-01-01": 83,
+      "2026-01-02": 76,
+      "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
@@ -519,8 +519,7 @@
       "2025-01-07": 669,
       "2025-01-06": 48,
       "2025-01-04": 329,
-      "2025-01-03": 1440,
-      "2025-01-02": 1440
+      "2025-01-03": 1440
     }
   },
   {
@@ -529,7 +528,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$hx_status_page.ico",
     "slug": "local-disk",
     "status": "down",
-    "uptime": "68.69%",
+    "uptime": "68.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -540,7 +539,8 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-01-01": 83,
+      "2026-01-02": 76,
+      "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
@@ -687,8 +687,7 @@
       "2025-03-07": 579,
       "2025-02-28": 329,
       "2025-01-04": 329,
-      "2025-01-03": 1440,
-      "2025-01-02": 1440
+      "2025-01-03": 1440
     }
   }
 ]
