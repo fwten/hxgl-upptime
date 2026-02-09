@@ -66,18 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/$denbi_llm_api.ico",
     "slug": "de-nbi-llm-api",
     "status": "up",
-    "uptime": "1.32%",
-    "uptimeDay": "1.32%",
-    "uptimeWeek": "1.32%",
-    "uptimeMonth": "1.32%",
-    "uptimeYear": "1.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 107,
     "timeDay": 107,
     "timeWeek": 107,
     "timeMonth": 107,
     "timeYear": 107,
-    "dailyMinutesDown": {
-      "2026-02-09": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
