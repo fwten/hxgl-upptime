@@ -5,21 +5,27 @@ repo: hxgl-upptime # The name of this repository
 sites:
   - name: HX GitLab
     url: https://healthx-gitlab.bihealth.org/
+  - name: de.NBI LLM
+    url: https://$DENBI_LLM_API/
+  - name: de.NBI LLM API
+    url: https://$DENBI_LLM_API/v1/
+# disabled feb 2026
   - name: NFS Tar
     url: https://$HX_STATUS_PAGE/test/1/
     __dangerous__body_down: "false"
-  #- name: Aspera Conf
-  #  url: https://$HX_STATUS_PAGE/test/2/
-  #  __dangerous__body_down: "false"
-  #- name: Aspera Tar
-  #  url: https://$HX_STATUS_PAGE/test/3/
-  #  __dangerous__body_down: "false"
   - name: NFS Disk
     url: https://$HX_STATUS_PAGE/test/4/
     __dangerous__body_down: "false"
   - name: Local Disk
     url: https://$HX_STATUS_PAGE/test/5/
     __dangerous__body_down: "false"
+# disabled years ago
+  #- name: Aspera Conf
+  #  url: https://$HX_STATUS_PAGE/test/2/
+  #  __dangerous__body_down: "false"
+  #- name: Aspera Tar
+  #  url: https://$HX_STATUS_PAGE/test/3/
+  #  __dangerous__body_down: "false"
   #- name: Aspera Log Tar
   #  url: https://$HX_STATUS_PAGE/test/6/
   #  __dangerous__body_down: "false"
