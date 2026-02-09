@@ -11,17 +11,16 @@ sites:
     url: https://$DENBI_LLM_API/v1/
     expectedStatusCodes:
       - 404
-responseBody: '"Not Found"'
 # disabled feb 2026
-  - name: NFS Tar
-    url: https://$HX_STATUS_PAGE/test/1/
-    __dangerous__body_down: "false"
-  - name: NFS Disk
-    url: https://$HX_STATUS_PAGE/test/4/
-    __dangerous__body_down: "false"
-  - name: Local Disk
-    url: https://$HX_STATUS_PAGE/test/5/
-    __dangerous__body_down: "false"
+#  - name: NFS Tar
+#    url: https://$HX_STATUS_PAGE/test/1/
+#    __dangerous__body_down: "false"
+#  - name: NFS Disk
+#    url: https://$HX_STATUS_PAGE/test/4/
+#    __dangerous__body_down: "false"
+#  - name: Local Disk
+#    url: https://$HX_STATUS_PAGE/test/5/
+#    __dangerous__body_down: "false"
 # disabled years ago
   #- name: Aspera Conf
   #  url: https://$HX_STATUS_PAGE/test/2/
