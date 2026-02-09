@@ -9,6 +9,9 @@ sites:
     url: https://$DENBI_LLM_API/
   - name: de.NBI LLM API
     url: https://$DENBI_LLM_API/v1/
+    expectedStatusCodes:
+      - 404
+responseBody: '"Not Found"'
 # disabled feb 2026
   - name: NFS Tar
     url: https://$HX_STATUS_PAGE/test/1/
