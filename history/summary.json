@@ -47,10 +47,10 @@
     "url": "https://$DENBI_LLM_API/",
     "icon": "https://icons.duckduckgo.com/ip3/$denbi_llm_api.ico",
     "slug": "de-nbi-llm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 688,
@@ -58,16 +58,18 @@
     "timeWeek": 684,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-25": 1
+    }
   },
   {
     "name": "de.NBI LLM API",
     "url": "https://$DENBI_LLM_API/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/$denbi_llm_api.ico",
     "slug": "de-nbi-llm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +78,8 @@
     "timeWeek": 127,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-25": 0
+    }
   }
 ]
