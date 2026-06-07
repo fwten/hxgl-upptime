@@ -1,7 +1,7 @@
 url: https://$DENBI_LLM_API/
 status: up
 code: 200
-responseTime: 783
-lastUpdated: 2026-06-06T00:04:42.108Z
+responseTime: 727
+lastUpdated: 2026-06-07T00:02:30.078Z
 startTime: 2026-02-09T12:18:10.214Z
 generator: Upptime <https://github.com/upptime/upptime>
