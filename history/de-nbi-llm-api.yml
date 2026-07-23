@@ -1,7 +1,7 @@
 url: https://$DENBI_LLM_API/health/liveness/
 status: up
 code: 200
-responseTime: 2243
-lastUpdated: 2026-07-22T23:59:21.442Z
+responseTime: 1257
+lastUpdated: 2026-07-23T23:58:59.278Z
 startTime: 2026-02-09T12:18:11.070Z
 generator: Upptime <https://github.com/upptime/upptime>
