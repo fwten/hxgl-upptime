@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.85%",
-    "time": 1306,
-    "timeDay": 1406,
-    "timeWeek": 1609,
-    "timeMonth": 1625,
-    "timeYear": 1329,
+    "time": 1307,
+    "timeDay": 1576,
+    "timeWeek": 1613,
+    "timeMonth": 1620,
+    "timeYear": 1331,
     "dailyMinutesDown": {
       "2025-08-21": 31,
       "2025-09-01": 774,
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/$denbi_llm_api.ico",
     "slug": "de-nbi-llm",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.46%",
+    "uptimeDay": "57.00%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "97.46%",
     "time": 751,
-    "timeDay": 631,
-    "timeWeek": 726,
-    "timeMonth": 771,
+    "timeDay": 0,
+    "timeWeek": 725,
+    "timeMonth": 767,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2026-02-27": 948,
@@ -64,7 +64,8 @@
       "2026-03-17": 41,
       "2026-05-05": 205,
       "2026-05-17": 64,
-      "2026-08-04": 0
+      "2026-08-05": 117,
+      "2026-08-04": 502
     }
   },
   {
@@ -73,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/$denbi_llm_api.ico",
     "slug": "de-nbi-llm-api",
     "status": "down",
-    "uptime": "97.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.69%",
+    "uptime": "97.45%",
+    "uptimeDay": "57.02%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "97.45%",
     "time": 1117,
-    "timeDay": 1594,
-    "timeWeek": 1566,
-    "timeMonth": 1584,
+    "timeDay": 0,
+    "timeWeek": 1512,
+    "timeMonth": 1570,
     "timeYear": 1117,
     "dailyMinutesDown": {
       "2026-02-27": 956,
@@ -93,7 +94,8 @@
       "2026-03-17": 41,
       "2026-05-05": 205,
       "2026-05-17": 64,
-      "2026-08-04": 0
+      "2026-08-05": 117,
+      "2026-08-04": 502
     }
   }
 ]
