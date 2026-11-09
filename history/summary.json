@@ -4,11 +4,11 @@
     "url": "https://healthx-gitlab.bihealth.org/",
     "icon": "https://icons.duckduckgo.com/ip3/healthx-gitlab.bihealth.org.ico",
     "slug": "hx-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "96.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.20%",
     "uptimeYear": "98.98%",
     "time": 1463,
     "timeDay": 1857,
@@ -28,7 +28,8 @@
       "2026-03-31": 32,
       "2026-08-22": 68,
       "2026-09-05": 121,
-      "2026-10-13": 777
+      "2026-10-13": 777,
+      "2026-11-09": 10
     }
   },
   {
@@ -36,11 +37,11 @@
     "url": "https://$DENBI_LLM_API/",
     "icon": "https://icons.duckduckgo.com/ip3/$denbi_llm_api.ico",
     "slug": "de-nbi-llm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.24%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "98.05%",
     "time": 780,
     "timeDay": 1070,
@@ -58,7 +59,8 @@
       "2026-05-17": 64,
       "2026-08-05": 553,
       "2026-08-04": 502,
-      "2026-10-13": 773
+      "2026-10-13": 773,
+      "2026-11-09": 5
     }
   },
   {
@@ -66,9 +68,9 @@
     "url": "https://$DENBI_LLM_API/health/liveness/",
     "icon": "https://icons.duckduckgo.com/ip3/$denbi_llm_api.ico",
     "slug": "de-nbi-llm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "98.04%",
@@ -89,7 +91,8 @@
       "2026-05-17": 64,
       "2026-08-05": 553,
       "2026-08-04": 502,
-      "2026-10-13": 768
+      "2026-10-13": 768,
+      "2026-11-09": 0
     }
   }
 ]
