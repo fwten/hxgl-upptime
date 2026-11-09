@@ -1,7 +1,7 @@
 url: https://healthx-gitlab.bihealth.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-09T08:47:45.248Z
+status: up
+code: 200
+responseTime: 2012
+lastUpdated: 2026-11-09T19:06:59.137Z
 startTime: 2024-09-07T22:58:20.868Z
 generator: Upptime <https://github.com/upptime/upptime>
